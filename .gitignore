@@ -1,3 +1,6 @@
+#ignore single file
 file1.txt
-
+#ignore folder with his files
 feature1/
+#ignore all .tmp files
+*.tmp
